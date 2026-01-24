@@ -31,6 +31,12 @@ I'm a strong advocate for writing clean, maintainable, and scalable code to ensu
 
 ---
 
+## 🎯 Personal Projects
+- **[Daily Habit Tracker](https://github.com/your-repo-link)**: A habit-forming Android app built with Jetpack Compose and following MVVM architecture. Includes real-time analytics via Firebase and provides custom notifications for habit reminders.
+- **Project Name/Description**: Add additional personal projects or demos here!
+
+---
+
 ## 🌱 Currently Exploring
 - Advanced topics in **Jetpack Compose** and **Kotlin Multiplatform Mobile (KMM)**  
 - Integrating ML models in Android apps  
@@ -45,4 +51,4 @@ I'm always excited to collaborate on **Android development projects**, **open-so
 
 ## 📫 Let's Connect!
 - **GitHub**: [mohanvamsi04](https://github.com/mohanvamsi04)  
-- **LinkedIn**: [Vamsi Mohan](https://www.linkedin.com/in/vamsi-mohan)  
+- **LinkedIn**: [mohanvamsi04](https://www.linkedin.com/in/mohanvamsi04)  
