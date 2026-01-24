@@ -1,10 +1,8 @@
 ## 👨‍💻 About Me
 
-Android Developer with **1+ year of experience** building **reliable, scalable mobile applications**.  
-Currently at **TCS**, working on **IoT-powered Android apps** used by **5M+ global users**.
+Android Developer with **1+ year of experience** building **reliable, scalable mobile applications**. Currently at **TCS**, working on **IoT-powered Android apps** used by **5M+ global users**.
 
-Specialized in **Kotlin, Jetpack Compose, MVVM**, and **Coroutines/Flows**, with hands-on experience in  
-**real-time data processing, Bluetooth integrations, and performance optimization**.
+Specialized in **Kotlin, Jetpack Compose, MVVM**, and **Coroutines/Flows**, with hands-on experience in **real-time data processing, Bluetooth integrations, and performance optimization**.
 
 Focused on building **clean, maintainable, production-grade Android systems**.
 
