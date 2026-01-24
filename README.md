@@ -33,7 +33,6 @@ I'm a strong advocate for writing clean, maintainable, and scalable code to ensu
 
 ## 🎯 Personal Projects
 - **[Daily Habit Tracker](https://github.com/your-repo-link)**: A habit-forming Android app built with Jetpack Compose and following MVVM architecture. Includes real-time analytics via Firebase and provides custom notifications for habit reminders.
-- **Project Name/Description**: Add additional personal projects or demos here!
 
 ---
 
