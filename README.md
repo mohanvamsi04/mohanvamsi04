@@ -32,7 +32,7 @@ I'm a strong advocate for writing clean, maintainable, and scalable code to ensu
 ---
 
 ## 🎯 Personal Projects
-- **[Daily Habit Tracker](https://github.com/your-repo-link)**: A habit-forming Android app built with Jetpack Compose and following MVVM architecture. Includes real-time analytics via Firebase and provides custom notifications for habit reminders.
+- **[Tip Calculator – Tippy](https://github.com/mohanvamsi04/TipCalculator-Compose)**: A modern Android application built with Jetpack Compose that calculates tip and total bill amounts in real time based on user input. Features include dynamic service-quality indicators, a customizable tip slider, bill splitting for multiple people, animated value updates, and input validation.
 
 ---
 
